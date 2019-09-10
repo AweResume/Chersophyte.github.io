@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /code/
-title: Some Code I've Written
-tags: [code]
-modified: 3-10-2014
+permalink: /projects/
+title: My Projects
+tags: [projects]
+modified: 9-10-2019
 comments: false
 ---
 
