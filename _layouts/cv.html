@@ -44,6 +44,9 @@
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
+    
+    {{ content }}
+
       <p>
       <br><b><i>EDUCATION</i></b><br>
       <br />
@@ -95,10 +98,8 @@
       <br />
       &#8226 Scholarship of Sun Yat-sen University (top 10%) &nbsp;&nbsp;&nbsp;&nbsp; 2015-2018
       <br />
-      &#8226 Outstanding Prize of Undergraduate Research in Sun Yat-sen University (top 1%) &nbsp; un.2016/2017
+      &#8226 Outstanding Prize of Undergraduate Research in Sun Yat-sen University (top 1%) &nbsp; 2016/2017
 
-    <br />
-    {{ content }}
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
