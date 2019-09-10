@@ -1,9 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: My CV
+title: My Brief Curriculum
 tags: [about]
-modified: 8-7-2014
+modified: 9-14-2019
 comments: false
 ---
 
