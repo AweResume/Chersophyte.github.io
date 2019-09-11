@@ -20,11 +20,11 @@ comments: false
 Here are my graduation pictures with my friend in Sun Yat-sen University.
 
 <br />
-<img src="https://chersophyte.github.io/images/picture1.jpg" width="600px" />
+<img src="https://chersophyte.github.io/images/picture1.jpg" width="400px" />
 &nbsp;
-<img src="https://chersophyte.github.io/images/picture2.jpg" width="600px" />
+<img src="https://chersophyte.github.io/images/picture2.jpg" width="400px" />
 &nbsp;
-<img src="https://chersophyte.github.io/images/picture3.jpg" width="600px" />
+<img src="https://chersophyte.github.io/images/picture3.jpg" width="400px" />
 
 
 
