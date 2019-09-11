@@ -7,13 +7,13 @@ modified: 9-10-2019
 comments: false
 ---
 
-As a physics Olympiad contestant in high school, I love astronomy and stargazing. I once shot the Great American Solar Eclipse of Aug. 21, 2017 in Atlanta.
+* As a physics Olympiad contestant in high school, I love astronomy and stargazing. I once shot the Great American Solar Eclipse of Aug. 21, 2017 in Atlanta.
 
-I have been playing classical piano for 15 years and I got ABRSM performer’s diploma in piano in 2012.
+* I have been playing classical piano for 15 years and I got ABRSM performer’s diploma in piano in 2012.
 
-I also love playing the violin. I used to be the first violinist in the Symphony Orchestra of Sun Yat-sen University.
+* I also love playing the violin. I used to be the first violinist in the Symphony Orchestra of Sun Yat-sen University.
 
-I am from Guangdong, China. Guangzhou is my favorite city.
+* I am from Guangdong, China. Guangzhou is my favorite city.
 
 Here are my graduation pictures in Sun Yat-sen University.
 
