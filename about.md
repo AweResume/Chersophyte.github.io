@@ -17,15 +17,14 @@ comments: false
 
 * I am from Guangdong, China. <a href="https://en.wikipedia.org/wiki/Guangzhou" target="_blank">Guangzhou</a> is my favorite city.
 
-Here are my graduation pictures in Sun Yat-sen University.
+Here are my graduation pictures with my friend in Sun Yat-sen University.
 
-<img src="https://chersophyte.github.io/images/picture1.jpg" width="800px" />
+<br />
+<img src="https://chersophyte.github.io/images/picture1.jpg" width="600px" />
 &nbsp;
-<img src="https://chersophyte.github.io/images/picture2.jpg" width="800px" />
+<img src="https://chersophyte.github.io/images/picture2.jpg" width="600px" />
 &nbsp;
-With my best friend :)
-&nbsp;
-<img src="https://chersophyte.github.io/images/picture3.jpg" width="800px" />
+<img src="https://chersophyte.github.io/images/picture3.jpg" width="600px" />
 
 
 
