@@ -12,7 +12,7 @@ I am now a research assistant at <a href="https://www.ri.cmu.edu/" target="_blan
 I received my Bachelor of Science from School Of Mathematics at <a href="http://www.sysu.edu.cn/2012/en/index.htm" target="_blank">Sun Yat-sen University, Guangzhou</a> in 2019.07, majoring in Mathematics and Applied Mathematics. I earned the Best Bachelor Thesis Award.
 
 <br />
-Previously, I was a research intern working at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank">Microsoft Research Asia</a>, Machine Learning Group, collaborated with <a href="https://sites.google.com/site/jiangbianhome/" target="_blank">Jiang Bian</a> and Jia Zhang. We built an end-to-end platform supporting popular multi-agent reinforcement learning (MARL) algorithms. Our platform will be open-sourced by Microsoft soon.
+Previously, I was a research intern working at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank">Microsoft Research Asia</a>, Machine Learning Group, and collaborated with <a href="https://sites.google.com/site/jiangbianhome/" target="_blank">Jiang Bian</a> and Jia Zhang. We built an end-to-end platform supporting popular multi-agent reinforcement learning (MARL) algorithms. Our platform will be open-sourced by Microsoft soon.
 
 <br />
 My research interests focus on, but not limited to Reinforcement Learning, Multi-Agent Interaction, Meta Learning, and Optimization. I enjoy exploring theoretical understandings of model-free reinforcement learning and proposing approaches to solve agent interaction problem in multi-agent systems. I am also interested in human-robot interaction.
