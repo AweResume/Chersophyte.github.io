@@ -13,13 +13,18 @@ comments: false
 
 * I also love playing the violin. I used to be the first violinist in the Symphony Orchestra of Sun Yat-sen University.
 
-* I am from Guangdong, China. Guangzhou is my favorite city.
+* I am very passionate about volunteer work. The campus public welfare bookstore I managed has helped thousands of poor Chinese children living in mountainous areas.
+
+* I am from Guangdong, China. <a href="https://en.wikipedia.org/wiki/Guangzhou" target="_blank">Guangzhou</a> is my favorite city.
 
 Here are my graduation pictures in Sun Yat-sen University.
 
+<br />
 <img src="https://chersophyte.github.io/images/picture1.jpg" width="800px" />
 <br />
 <img src="https://chersophyte.github.io/images/picture2.jpg" width="800px" />
+<br />
+With my best friend :)
 <br />
 <img src="https://chersophyte.github.io/images/picture3.jpg" width="800px" />
 
