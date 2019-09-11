@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /about/
 title: More About Me
 tags: [about]
@@ -17,9 +17,11 @@ I am from Guangdong, China. Guangzhou is my favorite city.
 
 Here are my graduation pictures in Sun Yat-sen University.
 
-<img src="https://chersophyte.github.io/images/picture1.jpg" width="200px" />
-<img src="https://chersophyte.github.io/images/picture2.jpg" width="200px" />
-<img src="https://chersophyte.github.io/images/picture3.jpg" width="200px" />
+<img src="https://chersophyte.github.io/images/picture1.jpg" width="800px" />
+<br />
+<img src="https://chersophyte.github.io/images/picture2.jpg" width="800px" />
+<br />
+<img src="https://chersophyte.github.io/images/picture3.jpg" width="800px" />
 
 
 
