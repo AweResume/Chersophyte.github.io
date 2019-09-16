@@ -2,8 +2,7 @@
 layout: home2
 title: Welcome to my homepage!
 description: "Yongyuan Liang's Homepage"
-image:
-  feature: header1.jpg
+
 ---
 
 I am now a research assistant at <a href="https://www.ri.cmu.edu/" target="_blank">Carnegie Mellon University, Robotics Institutes</a>, advised by <a href="https://www.ri.cmu.edu/ri-faculty/changliu-liu/" target="_blank">Changliu Liu</a> and <a href="https://www.ri.cmu.edu/ri-faculty/katia-sycara/" target="_blank">Katia Sycara</a>, working on multi-agent cooperative learning and human-robot interaction problems.
