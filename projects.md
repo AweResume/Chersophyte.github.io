@@ -35,7 +35,7 @@ Methods for representing networked agents' interaction in multi-agent system.
 <br />
 Considering a new agent as a new node in a multi-agent syetem, We plan to introduce an graph interaction representation for learning agent adaptation in a new environment.
 
-* **Local Differential privacy in Decentralized Multi-Agent Learning**<br>
+* **Local Differential Privacy in Decentralized Multi-Agent Learning**<br>
 Collaborating: <b>Carnegie Mellon University</b><br>
 Methods for privacy production in decentralized training, inspired from federared learning.
  
