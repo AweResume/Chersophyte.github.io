@@ -29,16 +29,16 @@ Also, we now consider a method to calculate agents' contribution in cooperation 
 <br />
 Our work papers will be published soon.
 
-* **Policy Representation in Meta Reinforcement Learning**<br>
+* **Cooperative Policy Representation in Meta Reinforcement Learning**<br>
 Collaborating: <b>Carnegie Mellon University</b><br>
 Methods for representing networked agents' interaction in multi-agent system.
 <br />
-Considering a new agent as a new node in a multi-agent syetem, We plan to introduce an graph interaction representation for learning agent adaptation in a new environment.
+Considering a new agent as a new node in a multi-agent system, We introduce an graph interaction representation for learning agent adaptation in a new environment.
 
 * **Local Differential Privacy in Decentralized Multi-Agent Learning**<br>
 Collaborating: <b>Carnegie Mellon University</b><br>
-Methods for privacy production in decentralized training, inspired from federared learning.
- 
+Inspired from federated learning, we now study local differential privacy in the cooperative framework of centralized training with decentralized execution. In the other words, different local privacy-preserving approaches are applied in multi-agent learning.
+
 ### Human Robot Interaction
 
 * **ASIST: A Robust and Adaptive Agent that Supports High Performance Teams**<br>

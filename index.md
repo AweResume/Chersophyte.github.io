@@ -14,8 +14,8 @@ I received my Bachelor of Science from School Of Mathematics at <a href="http://
 Previously, I was a research intern working at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank">Microsoft Research Asia</a>, Machine Learning Group, and collaborated with <a href="https://sites.google.com/site/jiangbianhome/" target="_blank">Jiang Bian</a> and Jia Zhang. We built an end-to-end platform supporting various multi-agent scenarios and popular distributed multi-agent reinforcement learning (MARL) algorithm training. Our platform will be open-sourced by Microsoft soon.
 
 <br />
-My research interests focus on, but not limited to Reinforcement Learning, Multi-Agent Interaction, Meta Learning, and Optimization. I enjoy exploring theoretical understandings of model-free reinforcement learning and proposing approaches to solve agent interaction problem in multi-agent systems. I am also interested in machine learning system.
+My research interests focus on, but not limited to Reinforcement Learning, Multi-Agent Interaction, Meta Learning, and Optimization. I enjoy exploring theoretical understandings of model-free reinforcement learning and proposing approaches to solve agent interaction problem in multi-agent systems. I am also interested in distributed machine learning system.
 
 <br />
 
-As a Ph.D. applicant this year, I'm looking forward to potential collaboration and position. Feel free to contact me with E-mail if you have an interest in my research.
+As a Ph.D. applicant this year, I'm looking forward to potential collaborations and positions. Feel free to contact me with E-mail if you have an interest in my research.
