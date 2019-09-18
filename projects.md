@@ -14,7 +14,7 @@ Some of my projects in process are presented here.
 Collaborating: <b>Microsoft Research Asia</b><br>
 MARO (Multi-Agent Resource Optimization) is an end-to-end platform for applied multi-agent reinforcement learning based on resource allocation optimization.
 <br/>
-MARO supports various graph-based multi-agent scenarios and offers popular deep RL algorithm implementations. The platform includes agents' information (state, action, reward) engineering, environment runner and user-defined business engine modules. MARO natively supports PyTorch.
+MARO supports various graph-based multi-agent scenarios and offers popular deep RL algorithm implementations. The platform includes agents' information (state, action, reward) engineering, environment runner, user-defined business engine and distributed training modules. MARO natively supports PyTorch.
 
  <p align="center" ><img src="{{ site.url }}/images/MARO.jpg"></p>
 
