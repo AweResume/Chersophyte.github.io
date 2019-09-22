@@ -23,7 +23,7 @@ MARO offers various graph based multi-agent environments and popular deep RL alg
 Collaborating: <b>University of California, Los Angeles</b><br>
 In networked multi-agent reinforcement learning, we argue that individual reward engineering can motivate agents' cooperation.
 <br />
-Considering sequential resource allocation scenarios such as logistic network and routing, a variety of methods are proposed for motivation design in learning with graph feature processing. We introduce an attention mechanism to infer agents' individual action influence. To adapt scalability of large networked multi-agent system, we represent sub-graph layers and graph-layer attention for influence contagion.
+Considering sequential resource allocation scenarios such as logistic network and routing, a variety of methods are proposed for motivation design in learning with graph feature processing. We introduce an attention mechanism to infer agents' individual action influence. To adapt scalability of large networked multi-agent system, we represent sub-graph layers and graph-layer attention for influence propagation.
 <br />
 Also, we now consider a method to calculate agents' contribution in cooperation task to improve cooperative performance. It is also a motivation engineering problem in MARL.
 <br />
@@ -43,7 +43,7 @@ Inspired from federated learning, we now study local differential privacy in the
 
 * **ASIST: A Robust and Adaptive Agent that Supports High Performance Teams**<br>
 Collaborating: <b>Carnegie Mellon University</b>, <b>DARPA</b><br>
-The ASIST project involves human team behavior monitoring, prediction, and learning, as well as providing assistance. We now develop a end-to-end theory of mind model (a modularized neural network) to understand and predict human behaviors, for large decentralized teams with humans in specific roles.
+The ASIST project involves human team behavior monitoring, prediction, and robot assistance. We now develop an end-to-end theory of mind model (a modularized neural network) to understand and predict human behaviors, for large decentralized teams with humans in specific roles.
 <br />
 Our model is used to develop a generalizable and scalable agent architecture (ASIST agent) which can assist human teamwork by providing needed information about environment and teammates' actions to help the human team be robust to teammates' and environmental perturbations.
 
