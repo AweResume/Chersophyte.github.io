@@ -14,7 +14,7 @@ I received my Bachelor of Science from School Of Mathematics at <a href="http://
 Previously, I was a research intern working at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank">Microsoft Research Asia</a>, Machine Learning Group, and collaborated with <a href="https://sites.google.com/site/jiangbianhome/" target="_blank">Jiang Bian</a> and Jia Zhang. We built an end-to-end platform supporting various multi-agent scenarios and design a distributed reinforcement learning training system. Our platform will be open-sourced by Microsoft soon.
 
 <br />
-My research interests focus on, but not limited to Reinforcement Learning, Multi-Agent Interaction, Meta Learning, and Distributed Training System. I enjoy exploring theoretical understandings of reinforcement learning and approaches to solve agent or robot interaction problem in multi-agent systems. I am also interested in distributed machine learning system.
+My research interests focus on, but not limited to Reinforcement Learning, Multi-Agent Interaction, Meta Learning, and Distributed Training System. I enjoy exploring theoretical understandings of sequential decision making problem and approaches to solve agent or robot interaction problem. I am also interested in machine learning system.
 
 <br />
 
