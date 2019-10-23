@@ -15,6 +15,8 @@ comments: false
 
 * I am very passionate about volunteer work. The campus public welfare bookstore I managed has helped thousands of poor Chinese children living in mountainous areas.
 
+* I am a technical writer on <a href="https://www.zhihu.com/people/shang-shi-zhou" target="_blank">Zhihu (知乎)</a> — Chinese Quora (200 million+ registered users).
+
 * I am from Guangdong, China. <a href="https://en.wikipedia.org/wiki/Guangzhou" target="_blank">Guangzhou</a> is my favorite city.
 
 Here are my graduation pictures with my friend at Sun Yat-sen University.
